@@ -1,0 +1,7 @@
+C:\Users\gytau\Desktop\ADER FULL\NCalc-master\Evaluant.Calculator\bin\Debug\NCalc.dll
+C:\Users\gytau\Desktop\ADER FULL\NCalc-master\Evaluant.Calculator\bin\Debug\NCalc.pdb
+C:\Users\gytau\Desktop\ADER FULL\NCalc-master\Evaluant.Calculator\bin\Debug\Antlr3.Runtime.dll
+C:\Users\gytau\Desktop\ADER FULL\NCalc-master\Evaluant.Calculator\obj\Debug\NCalc.csprojResolveAssemblyReference.cache
+C:\Users\gytau\Desktop\ADER FULL\NCalc-master\Evaluant.Calculator\obj\Debug\NCalc.csproj.CoreCompileInputs.cache
+C:\Users\gytau\Desktop\ADER FULL\NCalc-master\Evaluant.Calculator\obj\Debug\NCalc.dll
+C:\Users\gytau\Desktop\ADER FULL\NCalc-master\Evaluant.Calculator\obj\Debug\NCalc.pdb

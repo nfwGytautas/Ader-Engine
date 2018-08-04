@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{98AC30DE-C729-4C05-88A1-882665620469}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Project_E</RootNamespace>
+    <AssemblyName>Project-E</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NCalc, Version=1.3.8.0, Culture=neutral, PublicKeyToken=973cde3f1cafed03, processorArchitecture=MSIL">
+      <HintPath>..\packages\ncalc.1.3.8\lib\NCalc.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Code compiler classes\Acf\ActionSequence.cs" />
+    <Compile Include="Classes\Code compiler classes\CodeFileClass.cs" />
+    <Compile Include="Classes\DataHandlerForProgram.cs" />
+    <Compile Include="Classes\FileManager.cs" />
+    <Compile Include="Classes\SpriteSheet.cs" />
+    <Compile Include="Classes\Variables\BooleanVariable.cs" />
+    <Compile Include="Classes\CharacterMovement.cs" />
+    <Compile Include="Classes\Code compiler classes\CodeCompiler.cs" />
+    <Compile Include="Classes\Variables\FloatVariable.cs" />
+    <Compile Include="Classes\GameClass.cs" />
+    <Compile Include="Classes\Class hierarchy\GameObject.cs" />
+    <Compile Include="Classes\Variables\IntegerVariable.cs" />
+    <Compile Include="Classes\MapClass.cs" />
+    <Compile Include="Classes\Variables\StringVariable.cs" />
+    <Compile Include="Classes\Variables\Variable.cs" />
+    <Compile Include="Classes\Variables\VariableVarations.cs" />
+    <Compile Include="HelperForms\BackSideWhait.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelperForms\BackSideWhait.Designer.cs">
+      <DependentUpon>BackSideWhait.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelperForms\DataShower.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelperForms\DataShower.Designer.cs">
+      <DependentUpon>DataShower.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelperForms\DoubleBufferedPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HelperForms\MessageBoxWithInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelperForms\MessageBoxWithInput.Designer.cs">
+      <DependentUpon>MessageBoxWithInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelperForms\MessageBoxWithOneLineInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelperForms\MessageBoxWithOneLineInput.Designer.cs">
+      <DependentUpon>MessageBoxWithOneLineInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ECT\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControls\CharacterCreator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\CharacterCreator.Designer.cs">
+      <DependentUpon>CharacterCreator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\CodingWindow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\CodingWindow.Designer.cs">
+      <DependentUpon>CodingWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\CreateMap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\CreateMap.Designer.cs">
+      <DependentUpon>CreateMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DebugWindow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DebugWindow.Designer.cs">
+      <DependentUpon>DebugWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\GameLogistics.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\GameLogistics.Designer.cs">
+      <DependentUpon>GameLogistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\HUD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\HUD.Designer.cs">
+      <DependentUpon>HUD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Logger.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Logger.Designer.cs">
+      <DependentUpon>Logger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\MapLogistics.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\MapLogistics.Designer.cs">
+      <DependentUpon>MapLogistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\MapViewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\MapViewer.Designer.cs">
+      <DependentUpon>MapViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\SpriteMovingViewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\SpriteMovingViewer.Designer.cs">
+      <DependentUpon>SpriteMovingViewer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="HelperForms\BackSideWhait.resx">
+      <DependentUpon>BackSideWhait.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelperForms\DataShower.resx">
+      <DependentUpon>DataShower.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelperForms\MessageBoxWithInput.resx">
+      <DependentUpon>MessageBoxWithInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelperForms\MessageBoxWithOneLineInput.resx">
+      <DependentUpon>MessageBoxWithOneLineInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserControls\CharacterCreator.resx">
+      <DependentUpon>CharacterCreator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\CodingWindow.resx">
+      <DependentUpon>CodingWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\CreateMap.resx">
+      <DependentUpon>CreateMap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\DebugWindow.resx">
+      <DependentUpon>DebugWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\GameLogistics.resx">
+      <DependentUpon>GameLogistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\HUD.resx">
+      <DependentUpon>HUD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Logger.resx">
+      <DependentUpon>Logger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\MapLogistics.resx">
+      <DependentUpon>MapLogistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\MapViewer.resx">
+      <DependentUpon>MapViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\SpriteMovingViewer.resx">
+      <DependentUpon>SpriteMovingViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ECT\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pause.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Debugstart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Debugstop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ECT\Defines.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

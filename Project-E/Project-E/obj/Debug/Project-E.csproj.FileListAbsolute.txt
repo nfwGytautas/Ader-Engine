@@ -1,0 +1,95 @@
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\bin\Debug\Project-E.exe.config
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\bin\Debug\Project-E.exe
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\bin\Debug\Project-E.pdb
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project-E.csprojResolveAssemblyReference.cache
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project_E.HelperForms.MessageBoxWithInput.resources
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project_E.HelperForms.MessageBoxWithOneLineInput.resources
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project_E.MainFrame.resources
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project_E.Properties.Resources.resources
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project_E.UserControls.CodingWindow.resources
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project_E.UserControls.CreateMap.resources
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project_E.UserControls.DebugWindow.resources
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project_E.UserControls.GameLogistics.resources
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project_E.UserControls.Logger.resources
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project_E.UserControls.MapViewer.resources
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project-E.csproj.GenerateResource.Cache
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project-E.csproj.CoreCompileInputs.cache
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project-E.exe
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project-E.pdb
+C:\Users\gytau\Documents\Visual Studio 2017\Projects\Project-E\Project-E\obj\Debug\Project_E.UserControls.MapEncoder.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\bin\Debug\Project-E.exe.config
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\bin\Debug\Project-E.exe
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\bin\Debug\Project-E.pdb
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\bin\Debug\NCalc.dll
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.HelperForms.BackSideWhait.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.HelperForms.DataShower.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.HelperForms.MessageBoxWithInput.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.HelperForms.MessageBoxWithOneLineInput.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.MainFrame.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.Properties.Resources.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.CharacterCreator.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.CodingWindow.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.CreateMap.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.DebugWindow.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.GameLogistics.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.Logger.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.MapLogistics.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.MapViewer.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.SpriteMovingViewer.resources
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.csproj.GenerateResource.Cache
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.csproj.CoreCompileInputs.cache
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.exe
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.pdb
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.csprojResolveAssemblyReference.cache
+C:\Users\gytau\Desktop\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.HUD.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\bin\Debug\Project-E.exe.config
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\bin\Debug\Project-E.exe
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\bin\Debug\Project-E.pdb
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\bin\Debug\NCalc.dll
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.csprojResolveAssemblyReference.cache
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.HelperForms.BackSideWhait.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.HelperForms.DataShower.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.HelperForms.MessageBoxWithInput.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.HelperForms.MessageBoxWithOneLineInput.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.MainFrame.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.Properties.Resources.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.CharacterCreator.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.CodingWindow.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.CreateMap.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.DebugWindow.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.GameLogistics.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.HUD.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.Logger.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.MapLogistics.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.MapViewer.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.SpriteMovingViewer.resources
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.csproj.GenerateResource.Cache
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.csproj.CoreCompileInputs.cache
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.exe
+C:\Users\gytau\Desktop\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.pdb
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\bin\Debug\Project-E.exe.config
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\bin\Debug\Project-E.exe
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\bin\Debug\Project-E.pdb
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\bin\Debug\NCalc.dll
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.csprojResolveAssemblyReference.cache
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.HelperForms.BackSideWhait.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.HelperForms.DataShower.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.HelperForms.MessageBoxWithInput.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.HelperForms.MessageBoxWithOneLineInput.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.MainFrame.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.Properties.Resources.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.CharacterCreator.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.CodingWindow.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.CreateMap.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.DebugWindow.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.GameLogistics.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.HUD.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.Logger.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.MapLogistics.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.MapViewer.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project_E.UserControls.SpriteMovingViewer.resources
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.csproj.GenerateResource.cache
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.csproj.CoreCompileInputs.cache
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.csproj.CopyComplete
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.exe
+E:\CV\Ader engine\ADER FULL\Project-E\Project-E\obj\Debug\Project-E.pdb
