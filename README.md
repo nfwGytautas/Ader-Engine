@@ -1,4 +1,4 @@
-# Ader-Enginge
+# Ader-Engine
 A 2D C#, engine utilizing .NET framework
 
 Altough the engine can be used for creating 2D games (I managed to recreate The Legend of Zelda 1986), I stoped the project and focused more
